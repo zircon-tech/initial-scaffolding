@@ -1,11 +1,12 @@
 {
   "name": "initial-scaffolding",
   "version": "1.0.0",
-  "description": "Initial repository with all needed resources to start any project",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alejandro Barrios (abarrios@zircon.tech)",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
